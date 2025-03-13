@@ -8,7 +8,7 @@ Right now, I’m leveling up at Syntax Institut (2024–2025), where I’m maste
 
 **🌍 Polyglot Bonus:** I chat in **German** (native), brainstorm in **English** (fluent), and negotiate family dinners in **Turkish** (with extra spice 🌶️).
 
-[www.tyfn.online](http://www.tyfn.online) | 📬 contact@tyfn.online 
+[www.tyfn.online](http://www.tyfn.online) | 📬 tyfn.ilkr@gmail.com 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tyfn_code.and.design) 
