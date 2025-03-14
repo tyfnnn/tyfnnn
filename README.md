@@ -2,7 +2,7 @@
 
 a spirited software developer on a quest to turn caffeine into clean code and user-centric magic! 🧙‍♂️ By day, I’m crafting pixel-perfect iOS and Android apps; by night, I’m tinkering with backend sorcery to make sure everything just works.
 
-As a career-switching wizard 🎩, I’ve traded hearing aids for HTTPS requests and logistics spreadsheets for Swift scripts. My secret weapons? Precision from my years fine-tuning ears 🦻, teamwork vibes from warehouse floors 📦, and an obsession with creating apps that feel like a warm hug to users.
+As a career-switching wizard 🎩, I fine-tuned sound waves to perfect a listener’s world—now, I fine-tune code to craft seamless digital experiences. 🎧➡️📱 My secret weapons? Precision from my years fine-tuning ears 🦻, problem-solving from understanding user needs 🎯, and an obsession with creating apps that feel like a warm hug to users.
 
 Right now, I’m leveling up at Syntax Institut (2024–2025), where I’m mastering agile spells 🧪, modern app architectures 🏗️, and the art of full-stack alchemy (yes, I make both iOS and Android apps play nice!). My projects? Think sleek interfaces that spark joy ✨, backed by APIs so robust they could lift a mountain.
 
