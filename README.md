@@ -11,7 +11,9 @@ After a few detours and explorations, I’ve found my true path: software develo
 ##### 🌀 A brain wired for structure and design,
 ##### 🤝 And a drive to build software that’s as intuitive as it is delightful.
 
+
 🌍 Bonus Level: Native in German, fluent in English, and fluent in Turkish.
+
 
 Let’s build the future, one elegant app at a time.
 
