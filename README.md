@@ -6,9 +6,9 @@ Long before I wrote my first app, I was knee-deep in terminal windows and tangle
 
 After a few detours and explorations, I’ve found my true path: software development with a mobile-first mindset. I’m currently sharpening my skills at Syntax Institut (2024–2025), focusing on full-stack mobile development with a heart for sleek UX and bulletproof architecture. iOS and Android? I speak both natively – and I make them get along just fine.
 
-My superpowers?
-🛠️ A lifelong curiosity for tech,
-🌀 A brain wired for structure and design,
+My superpowers? \n
+🛠️ A lifelong curiosity for tech, \n
+🌀 A brain wired for structure and design, \n
 🤝 And a drive to build software that’s as intuitive as it is delightful.
 
 🌍 Bonus Level: Native in German, fluent in English, and fluent in Turkish.
