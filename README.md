@@ -1,23 +1,25 @@
-## Hi there I'm **Tayfun**,
+# Hi there, I'm **Tayfun**
 
-a spirited software developer on a quest to turn caffeine into clean code and user-centric magic!
+*A spirited software developer on a quest to turn caffeine into clean code and user-centric magic!*
 
-Long before I wrote my first app, I was knee-deep in terminal windows and tangled cables, breathing life into old machines. As a teenager, I spent countless nights tinkering with Linux, scripting in the shell, and diving into the raw beauty of open systems. Back then, it was just passion — now, it’s my profession.
+Long before I wrote my first app, I was knee-deep in terminal windows and tangled cables, breathing life into old machines. As a teenager, I spent countless nights tinkering with Linux, scripting in the shell, and diving into the raw beauty of open systems. Back then, it was just passion — now, it's my profession.
 
-After a few detours and explorations, I’ve found my true path: software development with a mobile-first mindset. I’m currently sharpening my skills at Syntax Institut (2024–2025), focusing on full-stack mobile development with a heart for sleek UX and bulletproof architecture. iOS and Android? I speak both natively – and I make them get along just fine.
+After a few detours and explorations, I've found my true path: software development with a mobile-first mindset. I'm currently sharpening my skills at Syntax Institut (2024–2025), focusing on full-stack mobile development with a heart for sleek UX and bulletproof architecture. iOS and Android? I speak both natively – and I make them get along just fine.
 
-#### My superpowers?
-##### 🛠️ A lifelong curiosity for tech,
-##### 🌀 A brain wired for structure and design,
-##### 🤝 And a drive to build software that’s as intuitive as it is delightful.
+## My superpowers
 
+- 🛠️ A lifelong curiosity for tech
+- 🌀 A brain wired for structure and design
+- 🤝 A drive to build software that's as intuitive as it is delightful
 
-🌍 Bonus Level: Native in German, fluent in English, and fluent in Turkish.
+### 🌍 Bonus Level
+Native in German, fluent in English, and fluent in Turkish.
 
+---
 
-Let’s build the future, one elegant app at a time.
+*Let's build the future*
 
-[https://tyfn.online](https://tyfn.online) | 📬 tyfn.ilkr@gmail.com 
+[tyfn.online](https://tyfn.online) | 📬 tyfn.ilkr@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tyfn_code.and.design) 
