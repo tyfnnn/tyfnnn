@@ -2,13 +2,19 @@
 
 a spirited software developer on a quest to turn caffeine into clean code and user-centric magic!
 
-In my early life, I fine-tuned sound waves to perfect a listener’s world — now, I fine-tune code to craft seamless digital experiences. My secret advantages? Precision from my years fine-tuning ears 🦻, problem-solving from understanding user needs 🎯, and an obsession with creating apps that feel like a warm hug to users.
+Long before I wrote my first app, I was knee-deep in terminal windows and tangled cables, breathing life into old machines. As a teenager, I spent countless nights tinkering with Linux, scripting in the shell, and diving into the raw beauty of open systems. Back then, it was just passion — now, it’s my profession.
 
-Right now, I’m leveling up at Syntax Institut (2024–2025), where I’m mastering mobile development, modern app architectures 🏗️, and the art of full-stack alchemy (yes, I make both iOS and Android apps play nice!). My projects? Think sleek interfaces that spark joy, backed by robust APIs.
+After a few detours and explorations, I’ve found my true path: software development with a mobile-first mindset. I’m currently sharpening my skills at Syntax Institut (2024–2025), focusing on full-stack development with a heart for sleek UX and bulletproof architecture. iOS and Android? I speak both natively – and I make them get along just fine.
 
-**🌍 Polyglot Bonus:** I chat in **German** (native), brainstorm in **English** (fluent), and negotiate family dinners in **Turkish** (with extra spice 🌶️).
+My superpowers?
+🛠️ A lifelong curiosity for tech,
+🌀 A brain wired for structure and design,
+🤝 And a drive to build software that’s as intuitive as it is delightful.
 
-[www.tyfn.online](http://www.tyfn.online) | 📬 tyfn.ilkr@gmail.com 
+🌍 Bonus Level: Native in German, fluent in English, and fluent in Turkish.
+
+Let’s build the future, one elegant app at a time.
+[https://tyfn.online](https://tyfn.online) | 📬 tyfn.ilkr@gmail.com 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tyfn_code.and.design) 
