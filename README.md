@@ -34,3 +34,4 @@ Native in German, fluent in English, and fluent in Turkish.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tyfnnn&icon=0&color=0)](https://visitcount.itsvg.in)
+
