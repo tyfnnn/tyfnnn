@@ -6,6 +6,8 @@ Long before I wrote my first app, I was knee-deep in terminal windows and tangle
 
 After a few detours and explorations, I've found my true path: software development with a mobile-first mindset. I'm currently sharpening my skills at Syntax Institut (2024–2025), focusing on full-stack mobile development with a heart for sleek UX and bulletproof architecture. iOS and Android? I speak both natively.
 
+> 💼 **Note:** This is my personal account. For my professional work, check out [@tayfun-e2n](https://github.com/tayfun-e2n)
+
 ## My superpowers
 
 - 🛠️ A lifelong curiosity for tech
